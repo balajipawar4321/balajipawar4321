@@ -1,32 +1,70 @@
-## Hi there 👋I am Balaji Pawar
+Hi, I'm Balaji Pawar 👋
 
-### About Me 
-Data Science Enthusiast | Focused on Machine Learning, Data Analysis & Predictive Modeling| pursuing bachelor degree in computer science
+Aspiring GenAI Engineer | Agentic AI Developer | Python Developer
 
-Maratha Shikshan Sanstha's Late Pandharinath Patil Institute of Management Studies
-Chhatrapati Sambhajinagar, Maharashtra, India  Contact info
+I'm a Computer Science graduate passionate about building intelligent applications using Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
 
-## My Github Starts
-![Github Stats3](https://github-readme-stats.vercel.app/api?username=balajipawar4321)
-![Github Starts2](https://github-readme-stats.vercel.app/api/top-langs/?username=balajipawar4321)
+I'm focused on developing practical AI solutions that automate workflows, solve real-world problems, and improve productivity.
 
-- 🔭 I’m currently working on Data Science Project
-- 🌱 I’m currently learning MLoops,Machine Learning,and NLP
-- 👯 I’m looking to collaborate on Deep learning
-- 💬 Ask me about Data Science and Analysis
-- 📫 How to reach me: pawarbalaji4321@gmail.com
+🚀 What I'm Learning & Building
 
-<!--
-**balajipawar4321/balajipawar4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Generative AI and Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases, Embeddings and Semantic Search
+- Prompt Engineering and LLM Evaluation
+- Agentic AI and Multi-Agent Systems
+- LangGraph and AI Agent Workflows
+- Tool Calling, Function Calling and Agent Memory
+- AI Safety, Guardrails and Human-in-the-Loop
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Python, SQL
+
+GenAI: LLMs, Transformers, RAG, Prompt Engineering, Embeddings, Chunking, Re-ranking
+
+Agentic AI: AI Agents, ReAct, Tool Calling, Function Calling, Memory, Multi-Agent Architecture
+
+Search & Retrieval: Vector Search, Hybrid Search, BM25, TF-IDF, HNSW
+
+Frameworks & Tools: LangChain, LangGraph, Streamlit, Git, GitHub, Jupyter Notebook
+
+AI Engineering: LLM Evaluation, Hallucination Reduction, Prompt Injection Prevention, Guardrails, Human-in-the-Loop
+
+💻 Featured Projects
+
+1. Agentic AI IT Support Automation Platform
+   - Building an AI-powered IT support system to classify tickets, retrieve solutions and automate approved troubleshooting workflows.
+   - Technologies: Python, LangGraph, RAG, Streamlit, Jira Service Management.
+
+2. RAG-Based Knowledge Assistant
+   - Building a document-based question-answering system using embeddings, vector search and LLMs.
+   - Technologies: Python, LangChain, Vector Database, RAG.
+
+3. Property Price Prediction
+   - Machine learning application to predict property prices using property features and location data.
+   - Technologies: Python, Pandas, Scikit-learn, Random Forest, Streamlit.
+
+4. House Price Prediction
+   - Machine learning project for predicting house prices using regression techniques.
+   - Technologies: Python, Pandas, Scikit-learn.
+
+📚 Currently Exploring
+
+- Advanced RAG and Agentic RAG
+- LangGraph Workflows
+- Multi-Agent Systems
+- LLM Evaluation and Optimization
+- AI Deployment and Production Workflows
+
+🎯 Career Objective
+
+Seeking entry-level opportunities as a GenAI Engineer, AI Engineer or Agentic AI Developer where I can contribute to building intelligent AI applications and continue growing as an AI Engineer.
+
+### 🤝 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/balaji-pawar4321/
+- GitHub: https://github.com/balajipawar4321
+- Email: pawarbalaji4321@gmail.com
+
+**Building. Learning. Experimenting. Innovating with AI.** 🚀
